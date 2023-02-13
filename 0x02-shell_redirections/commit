@@ -1,5 +1,5 @@
 git add .
 
-git commit -m 'its a got file that cuts through iron without making a noise'
+git commit -m 'Save stae of current directory'
 
 git push
