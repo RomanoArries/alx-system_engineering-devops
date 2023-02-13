@@ -1,5 +1,5 @@
 git add .
 
-git commit -m 'dulicate last line'
+git commit -m 'No more javascript'
 
 git push
