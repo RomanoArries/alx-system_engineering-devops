@@ -1,5 +1,5 @@
 git add .
 
-git commit -m 'I prefer the first ones actually'
+git commit -m 'line #2'
 
 git push
