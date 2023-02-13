@@ -1,5 +1,5 @@
 git add .
 
-git commit -m 'last lines of a file'
+git commit -m 'I prefer the first ones actually'
 
 git push
