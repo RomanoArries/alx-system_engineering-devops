@@ -1,5 +1,5 @@
 git add .
 
-git commit -m 'No more javascript'
+git commit -m 'dont count your dirctories, make your directories count'
 
 git push
