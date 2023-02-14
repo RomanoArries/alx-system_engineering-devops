@@ -1,5 +1,5 @@
 git add .
 
-git commit -m 'it must be in that file'
+git commit -m 'count that word'
 
 git push
