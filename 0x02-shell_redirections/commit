@@ -1,5 +1,5 @@
 git add .
 
-git commit -m 'letters only please'
+git commit -m 'A-Z'
 
 git push
