@@ -1,5 +1,5 @@
 git add .
 
-git commit -m 'dont count your dirctories, make your directories count'
+git commit -m 'What is new'
 
 git push
